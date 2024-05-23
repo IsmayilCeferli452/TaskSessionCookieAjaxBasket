@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8183CD35-DE3C-4311-91BB-8C0A21AB1159}|FiorelloAsp\\FiorelloAsp.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\tasksessioncookieajaxbasket\\fiorelloasp\\fiorelloasp\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8183CD35-DE3C-4311-91BB-8C0A21AB1159}|FiorelloAsp\\FiorelloAsp.csproj|solutionrelative:fiorelloasp\\viewcomponents\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8183CD35-DE3C-4311-91BB-8C0A21AB1159}|FiorelloAsp\\FiorelloAsp.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\tasksessioncookieajaxbasket\\fiorelloasp\\fiorelloasp\\views\\home\\basketdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8183CD35-DE3C-4311-91BB-8C0A21AB1159}|FiorelloAsp\\FiorelloAsp.csproj|solutionrelative:fiorelloasp\\views\\home\\basketdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8183CD35-DE3C-4311-91BB-8C0A21AB1159}|FiorelloAsp\\FiorelloAsp.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\tasksessioncookieajaxbasket\\fiorelloasp\\fiorelloasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8183CD35-DE3C-4311-91BB-8C0A21AB1159}|FiorelloAsp\\FiorelloAsp.csproj|solutionrelative:fiorelloasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8183CD35-DE3C-4311-91BB-8C0A21AB1159}|FiorelloAsp\\FiorelloAsp.csproj|c:\\users\\ismay\\onedrive\\masa\u00FCst\u00FC\\tasksessioncookieajaxbasket\\fiorelloasp\\fiorelloasp\\wwwroot\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8183CD35-DE3C-4311-91BB-8C0A21AB1159}|FiorelloAsp\\FiorelloAsp.csproj|solutionrelative:fiorelloasp\\wwwroot\\js\\basket.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "basket.js",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\FiorelloAsp\\wwwroot\\js\\basket.js",
+              "RelativeDocumentMoniker": "FiorelloAsp\\wwwroot\\js\\basket.js",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\FiorelloAsp\\wwwroot\\js\\basket.js",
+              "RelativeToolTip": "FiorelloAsp\\wwwroot\\js\\basket.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-23T01:33:23.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeaderViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\FiorelloAsp\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeDocumentMoniker": "FiorelloAsp\\ViewComponents\\HeaderViewComponent.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\FiorelloAsp\\ViewComponents\\HeaderViewComponent.cs",
+              "RelativeToolTip": "FiorelloAsp\\ViewComponents\\HeaderViewComponent.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:32:30.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\FiorelloAsp\\Views\\Home\\BasketDetails.cshtml",
+              "RelativeDocumentMoniker": "FiorelloAsp\\Views\\Home\\BasketDetails.cshtml",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\FiorelloAsp\\Views\\Home\\BasketDetails.cshtml",
+              "RelativeToolTip": "FiorelloAsp\\Views\\Home\\BasketDetails.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T01:11:24.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\FiorelloAsp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FiorelloAsp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ismay\\OneDrive\\Masa\u00FCst\u00FC\\TaskSessionCookieAjaxBasket\\FiorelloAsp\\FiorelloAsp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FiorelloAsp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T01:09:16.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

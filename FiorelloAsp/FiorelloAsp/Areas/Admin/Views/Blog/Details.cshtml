@@ -1,0 +1,21 @@
+﻿@model Blog
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="card" style="width: 18rem; height: 35rem;">
+    <img src="~/img/@Model.Image" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title"><b>@Model.Title</b></h5>
+    </div>
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item"><b>-Description:</b> @Model.Description</li>
+        <li class="list-group-item"><b>-CreatedDate:</b> @Model.CreateDate</li>
+        <li class="list-group-item"><b>-SoftDelete:</b> @Model.SoftDeleted</li>
+    </ul>
+    <div class="card-body">
+        <a asp-action="Index" class="card-link btn btn-danger">Go back</a>
+    </div>
+</div>
+
